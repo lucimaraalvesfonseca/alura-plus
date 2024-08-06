@@ -19,3 +19,8 @@ body {
 h1 {
     background-color: white;
 }
+.principal{
+  background-image:  url("img/Background.png");
+  background-repeat:  no-repeat;
+  background-size:  contain;
+}
